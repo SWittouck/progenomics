@@ -1,3 +1,3 @@
 # Progenomics
 
-Progenomics has been renamed to [SCARAP](github.com/swittouck/SCARAP)
+Progenomics has been renamed to [SCARAP](https://github.com/swittouck/scarap)
